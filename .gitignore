@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+1/poleval_2grams.txt
+1/poleval_3grams.txt
+1/task3_train_segmented.txt
+
+*test*
